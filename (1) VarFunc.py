@@ -11,7 +11,7 @@ print(choice)
 
 
 def greeting():
-    return "HI, youve called this function!"
+    return "Greetings! youve called this function!"
 
 greeting() #! Calling the function but it doesnt print with this code
 response = greeting() #! So we assign it to a variable
