@@ -17,4 +17,6 @@ greeting() #! Calling the function but it doesnt print with this code
 response = greeting() #! So we assign it to a variable
 print(response) #! And print it
 
+# This is just a comment
+
 
